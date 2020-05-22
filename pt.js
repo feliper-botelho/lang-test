@@ -18,8 +18,7 @@ const pt = {
     },
     home: {
       receba: {
-        title:
-          "Receba os seus pagamentos de <br/> modo fácil e totalmente seguro",
+        title: "Receba os seus pagamentos de modo fácil e totalmente seguro",
         text:
           "Ferramentas para rodar seu negócio mesmo quando a atividade não é tão comum. Crie a sua solução de pagamento personalizada de acordo com seu ramo de atividade.",
         criarConta: "CRIAR CONTA",
