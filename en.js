@@ -60,9 +60,9 @@ const en = {
           "enTemos diversos modelos e preços que cabem no seu bolso. Ofereça pagamentos com todas as bandeiras e receba em até um dia útil de forma simples e rápida mesmo você sendo desbancarizado ou com restrições.",
         button: "enSOLICITE A SUA MAQUININHA",
       },
-      cartxoes: {
+      cartoes: {
         title:
-          "enenCartão pré-pago com saldo das suas vendas online epresenciais",
+          "enCartão pré-pago com saldo das suas vendas online epresenciais",
         text:
           "enTodas as vendas pela internet ou maquininhas são creditados no seu cartão pré-pago AZPAY. É uma forma simples e eficaz para você que precisa de agilidade no fluxo de caixa do seu negócio.",
         button: "enCONHEÇA MAIS",
@@ -165,18 +165,18 @@ const en = {
           rodape:
             "enAs taxas são por MCC, podendo haver ajustes dependendo do ramo de atividade de cada lojista.",
         },
-      },
-      gateway: {
-        title: "enGATEWAY DE PAGAMENTO",
-        aPartir: "enA partir de:",
-        por: "enPOR TRANSAÇÃO VÁLIDA",
-        rodape: "enCálculo baseado em quantidade de transações mensais",
-      },
-      boleto: {
-        title: "enBOLETO BANCÁRIO",
-        aPartir: "enA partir de:",
-        por: "enPOR BOLETO COMPENSADO",
-        rodape: "enCálculo baseado em quantidade de transações mensais",
+        gateway: {
+          title: "enGATEWAY DE PAGAMENTO",
+          aPartir: "enA partir de:",
+          por: "enPOR TRANSAÇÃO VÁLIDA",
+          rodape: "enCálculo baseado em quantidade de transações mensais",
+        },
+        boleto: {
+          title: "enBOLETO BANCÁRIO",
+          aPartir: "enA partir de:",
+          por: "enPOR BOLETO COMPENSADO",
+          rodape: "enCálculo baseado em quantidade de transações mensais",
+        },
       },
       termos:
         "enTermos e condições especiais para parceiros e projetos com grandes volumes",
@@ -324,7 +324,7 @@ const en = {
     },
     splitPagamento: {
       title:
-        "Com o Split de Pagamento, marketplaces escolhem como dividir seus pagamentos, simplificando sua operação no mundo físico e online.",
+        "enCom o Split de Pagamento, marketplaces escolhem como dividir seus pagamentos, simplificando sua operação no mundo físico e online.",
       funciona: {
         title: "enComo funciona o Split de Pagamento",
         text1:
@@ -408,11 +408,11 @@ const en = {
       },
       faixaOnline: "enOnline + Físico + Boleto = Uma coisa só",
       texts920:
-        "O S920 é um terminal móvel compacto que conta com uma completa gama de certicações da indústria de pagamentos. É fabricado de acordo com os mais altos padrões mundiais de tecnologia. \n\n Leve e projetado para aplicações de grande volume de transações, oferece portabilidade e facilidade para o estabelecimento comercial. Possui tela touch screen colorida de alta resolução, impressora térmica de alta velocidade, design elegante, bateria de longa duração, processador de alta tecnologia e grande capacidade de memória.\n\nPossui várias opções de conectividade sem o, incluindo 3G (WCDMA), GPRS, Wi-FI e Bluetooth, complementados por uma plataforma aberta altamente segura, que facilita o desenvolvimento de aplicativos e softwares personalizados.",
+        "enO S920 é um terminal móvel compacto que conta com uma completa gama de certicações da indústria de pagamentos. É fabricado de acordo com os mais altos padrões mundiais de tecnologia. \n\n Leve e projetado para aplicações de grande volume de transações, oferece portabilidade e facilidade para o estabelecimento comercial. Possui tela touch screen colorida de alta resolução, impressora térmica de alta velocidade, design elegante, bateria de longa duração, processador de alta tecnologia e grande capacidade de memória.\n\nPossui várias opções de conectividade sem o, incluindo 3G (WCDMA), GPRS, Wi-FI e Bluetooth, complementados por uma plataforma aberta altamente segura, que facilita o desenvolvimento de aplicativos e softwares personalizados.",
       textd150:
-        "O D150 é um terminal sem fio, elegante e econômico, certificado pelo PCI PTS 4.x e projetado especificamente para aceitar transações com cartão inteligente EMV. Conecta-se de forma segura via Bluetooth a smartphones e tablets para oferecer uma solução de pagamento móvel perfeita para comerciantes.",
+        "enO D150 é um terminal sem fio, elegante e econômico, certificado pelo PCI PTS 4.x e projetado especificamente para aceitar transações com cartão inteligente EMV. Conecta-se de forma segura via Bluetooth a smartphones e tablets para oferecer uma solução de pagamento móvel perfeita para comerciantes.",
       textd180:
-        "O D180 é o equipamento mPOS mais compacto, seguro e econômico do mercado, atendendo o mais alto padrão de segurança mundial, pois já possui os certificados PCI PTS 3.x, EMV L1 e L2, e atende aos principais programas de certificação para equipamentos móveis das principais bandeiras de cartões do mundo, VISA – através do Visa Ready Program e mPOS da MASTERCARD, incluindo as certificações nacionais como ABECS e ANATEL.\n\nCompatível com todos os sistemas operacionais do mercado de dispositivos móveis, Android, IOS Apple e Windows Phone, pode ser conectado via bluetooth e USB. Ideal para aplicações de pagamentos em que a mobilidade é fundamental, possibilita a criação e desenvolvimento de Checkouts Móveis e pode ser aplicado também como PINPad tradicional via USB.",
+        "enO D180 é o equipamento mPOS mais compacto, seguro e econômico do mercado, atendendo o mais alto padrão de segurança mundial, pois já possui os certificados PCI PTS 3.x, EMV L1 e L2, e atende aos principais programas de certificação para equipamentos móveis das principais bandeiras de cartões do mundo, VISA – através do Visa Ready Program e mPOS da MASTERCARD, incluindo as certificações nacionais como ABECS e ANATEL.\n\nCompatível com todos os sistemas operacionais do mercado de dispositivos móveis, Android, IOS Apple e Windows Phone, pode ser conectado via bluetooth e USB. Ideal para aplicações de pagamentos em que a mobilidade é fundamental, possibilita a criação e desenvolvimento de Checkouts Móveis e pode ser aplicado também como PINPad tradicional via USB.",
       suprimentos: {
         title: "enSuprimentos e serviços para a sua operação",
         bobinas: "enBobinas para sua máquininha",
